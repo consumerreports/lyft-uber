@@ -1,4 +1,4 @@
-# Consumer Reports data analysis of Uber and Lyft pricing
+# Consumer Reports data analysis of Lyft and Uber pricing
 
 ## Data Files
 
