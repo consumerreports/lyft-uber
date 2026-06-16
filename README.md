@@ -7,7 +7,9 @@ The Consumer Reports Uber and Lyft data analysis consists of two files: uber.pdf
 ## Key Findings
 
 — All 30 of the virtual routes we tested (15 Uber-only routes and 15 Lyft-only routes) across the country had at least two price clusters separated by at least 5%. Most of the routes we tested had many more. Across the routes we tested, the median of the difference between the lowest and highest price groupings was about 50%. (We calculated the percentage change between the lowest and highest price groups and then determined the median for all 30 routes.)
+
 — Both apps also regularly entice customers to book rides by offering supposed discounts off what appeared to be inflated original prices, a practice that experts say not only is deceptive and manipulative but also may violate several states’ consumer-protection laws. We found that nearly 11 percent of all discounts advertised on both platforms fell into this category. We believe these discounts to be fake—what experts and regulators call false reference pricing or fictitious discounts.
+
 — Uber and Lyft take between 43% and 49.5% of each fare, a percentage that has been growing in recent years as drivers’ shares have fallen. CR conducted an in-person test in Portland, Oregon, with volunteer riders and drivers from Drivers Union Oregon. Those results are not included because they contain personally-identifiable information for both types of volunteers.
 
 Uber and Lyft deny that they engage in any fictitious pricing, attributing our findings to real-time marketplace conditions. 
