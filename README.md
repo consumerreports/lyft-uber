@@ -39,12 +39,19 @@ To calculate the average amount each company takes from each trip, we conducted 
 Our methodology and findings were reviewed by several subject-matter experts, who offered feedback, some of which was incorporated into this report. Those experts are:
 
 — M. Keith Chen, Professor of Behavioral Economics, University of California, Los Angeles, Anderson School of Management
+
 — Veena Dubal, Professor of Law, University of California, Irvine, School of Law
+
 — Alan Mislove, Professor of Computer Science and Senior Associate Dean for Academic Affairs, Northeastern University
+
 — Len Sherman, Executive in Residence and Adjunct Professor, Columbia Business School
+
 — Laura Smith, Legal Director, Truth in Advertising
+
 — Mark Tremblay, Assistant Professor of Economics, University of Nevada, Las Vegas, Lee Business School
+
 — Katie Wells, Senior Fellow, AI Now Institute
+
 — Christo Wilson, Professor of Computer Science and Associate Dean of Undergraduate Programs, Northeastern University
 
 ## Caveats and Limitations
