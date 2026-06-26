@@ -6,9 +6,9 @@ The Consumer Reports Uber and Lyft data analysis consists of two files: uber.pdf
 
 ## Key Findings
 
-— All 30 of the virtual routes we tested (15 Uber-only routes and 15 Lyft-only routes) across the country had at least two price clusters separated by at least 5%. Most of the routes we tested had many more. Across the routes we tested, the median of the difference between the lowest and highest price groupings was about 50%. (We calculated the percentage change between the lowest and highest price groups and then determined the median for all 30 routes.)
+— All 30 of the virtual routes we tested (15 Uber-only routes and 15 Lyft-only routes) across the country had at least two price clusters separated by at least 5%. Most of the routes we tested had many more. Across the routes we tested, the median of the difference between the lowest and highest price groupings was 42.4%. (We calculated the percentage change between the lowest and highest price groups and then determined the median for all 30 routes.)
 
-— Both apps also regularly entice customers to book rides by offering supposed discounts off what appeared to be inflated original prices, a practice that experts say not only is deceptive and manipulative but also may violate several states’ consumer-protection laws. We found that nearly 11 percent of all discounts advertised on both platforms fell into this category. We believe these discounts to be fake—what experts and regulators call false reference pricing or fictitious discounts.
+— Both apps also regularly entice customers to book rides by offering supposed discounts off what appeared to be inflated original prices, a practice that experts say not only is deceptive and manipulative but also may violate several states’ consumer-protection laws. We found that 12.4 percent of all discounts advertised on both platforms fell into this category. We believe these discounts to be fake—what experts and regulators call false reference pricing or fictitious discounts.
 
 — Uber and Lyft take between 43% and 49.5% of each fare, a percentage that has been growing in recent years as drivers’ shares have fallen. CR conducted an in-person test in Portland, Oregon, with volunteer riders and drivers from Drivers Union Oregon. Those results are not included because they contain personally-identifiable information for both types of volunteers.
 
@@ -20,7 +20,7 @@ They also challenged our methodology and conclusions and stated that they do not
 
 CR’s testing was conducted in March and April 2026 and consisted of both “virtual” testing, in which volunteers checked the prices of select routes across 17 states, and in-person tests in which volunteer riders purchased the same rides at the same time in Portland, Oregon. The CR tests examined advertised offers and promotions for both Uber and Lyft before rides were ordered and paid for.
 
-We designed the tests to determine if time was a factor in the prices our volunteers saw. Because dynamic pricing can shift from one moment to the next, we had our volunteers price the same routes at almost the same time—generally within a few minutes of one another and, in many cases, within the same minute. This is how we define volunteers pricing the “same ride.”  
+We designed the tests to determine if time was a factor in the prices our volunteers saw. Because dynamic pricing can shift from one moment to the next, we had our volunteers price the same routes at almost the same time—generally within six minutes of one another and, in many cases, within the same minute. This is how we define volunteers pricing the “same ride.”  
 
 Our virtual tests were conducted in the following 17 U.S. states: Alabama, Arizona, California, Colorado, Georgia, Florida, Idaho, Illinois, Kansas, Louisiana, Minnesota, Missouri, New York, Tennessee, Texas, Virginia, and Washington state.
 
@@ -79,3 +79,17 @@ Both Uber and Lyft also denied offering their customers fictitious discounts. Ly
 As noted above, Uber also took issue with our fake discount analysis. We counted fares as purportedly discounted when what appeared to be an original price had a strikethrough and a lower price was displayed. Uber said in a statement that when these prices are accompanied by labels such as "Fares lower than usual," they are not meant to suggest a discount but instead a "historical" or “informational” comparison.
 
 Uber and Lyft said the percentage of each fare they take is much lower than what CR calculated. They put their U.S. “take rates” at “around 20%” and “significantly lower than 30%,” respectively. But neither includes what Uber and Lyft spend on drivers’ commercial auto insurance in those calculations; experts we consulted argue that insurance should be counted as a cost of doing business under standard accounting practices. 
+
+## Corrections
+
+Correction: On June 25, 2026, Uber wrote to CR saying that it used the anonymized test data CR provided to re-identify our volunteers and their quoted prices and found three specific data-collection user errors among the hundreds of Uber prices recorded in screenshots by our 174 volunteers. After investigating those cases, we are amending the article as follows: 
+
+— We are changing a data visualization that referenced a volunteer named Camille, who incorrectly typed the wrong address for the Florida #2 route. (Our screenshot showed she entered the correct location name; Uber said its data shows she entered a different location with the same name.) We also removed this volunteer’s quoted price from our calculations, decreasing the highest fare on that route from $94.96 to $89.05.
+
+— One volunteer mistakenly set the Uber app to collect prices for Uber Reserve trips, which are generally more expensive than standard on-demand Uber trips. We removed from our dataset the five UberX route prices collected by this volunteer, recalculated the percentage spread between the highest and lowest price groups for each route and the median across all 30 routes, and are updating the data visualizations accordingly. The median difference between the highest and lowest price groups across all 30 virtual routes for both Uber and Lyft changed from 49.8 percent to 42.4 percent as a result. These changes also resulted in the percentage of fictitious discounts we observed increasing from 10.8 percent to 12.4 percent.
+
+— One volunteer typed the wrong address for the Idaho-to-Washington route. We removed this volunteer’s quoted UberX price from our calculations, which did not change that route’s percentage spread between the highest and lowest price groups.
+
+— We also clarified that rides on any given route were generally booked by our volunteers within a few minutes of each other, specifically within six minutes of each other.
+ 
+None of the corrections change our overall findings or conclusions that both Uber and Lyft use AI to charge consumers different prices.
